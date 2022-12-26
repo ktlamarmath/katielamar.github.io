@@ -36,7 +36,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 # Selected Presentations & Publications
 
-## UC Berkeley Teaching Experience 
+# UC Berkeley Teaching Experience 
 **Math 1A: Single Variable Calculus** Graduate Student Instructor (Spring 2023)
 
 
