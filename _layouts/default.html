@@ -34,13 +34,30 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-       <p class="view"><a href="https://www.linkedin.com/in/ktlamarmath/" target="_blank">View My LinkedIn Profile</a></p>
+       <p class="view"><a href="https://www.linkedin.com/in/ktlamarmath/" target="_blank">View My LinkedIn Profile</a></p> <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         
-      {% if site.github.is_user_page %}
-      <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-      {% endif %}
-        
-       <a href="{_layouts/contact.html}" target="_blank"> Contact Me </a>
+      <form
+        action="https://formspree.io/f/xgebwrgd"
+        method="POST"
+        enctype="multipart/form-data"
+      >
+        <label>
+          Your email:
+          <br>
+          <input type="email" name="email">
+        </label>
+        <br>
+        <br>
+        <label>
+          Your message:
+          <br>
+          <textarea name="message">
+          </textarea>
+        </label>
+        <br>
+        <br>
+        <button type="submit">Send</button>
+      </form>
         
       
       </header>
