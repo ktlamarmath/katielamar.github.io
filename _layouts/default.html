@@ -45,15 +45,21 @@
 
       </section>
       <footer>
-        <form action="https://formspree.io/f/xgebwrgd" method="POST">
-            <label for="name">Contact Form</label>
-            <input type="text" name="name" required>
- 
-            <label for="email">Your email</label>
-            <input type="text" name="email" required>
- 
-            <button type="submit">Submit form</button>
-         </form>
+        <form
+          action="https://formspree.io/f/xgebwrgd"
+          method="POST"
+          enctype="multipart/form-data"
+        >
+          <label>
+            Your email:
+            <input type="email" name="email">
+          </label>
+          <label>
+            Your message:
+            <textarea name="message"></textarea>
+          </label>
+          <button type="submit">Send</button>
+        </form>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
