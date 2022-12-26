@@ -80,11 +80,9 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 <ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy (ULAB) 2020 Showcase.
 
 [[Poster]](https://www.eposters.net/poster/nanoparticle-drug-delivery-methods-via-dna-nanotechnology){:target="_blank"} [[ULAB Physics & Astronomy]](https://ulab.berkeley.edu/labs/physics){:target="_blank"}
-
-&nbsp;
 &nbsp;
 
-** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access (contact information below). 
+** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access. 
 &nbsp;
 &nbsp;
 
