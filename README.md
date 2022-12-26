@@ -54,9 +54,25 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 
 [[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing) [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3) 
 
-# Selected Presentations
+# Selected Presentations & Posters
 
-# Selected Posters
+<ins>*Cardiac and Respiratory-Resolved Image Reconstruction with the Beat Pilot Tone*</ins>. International Society for Magnetic Resonance in Medicine 2022 Joint Meeting. 
+
+[[Video]](https://drive.google.com/file/d/1t-SW8l1FmjbDyFvgM6zPZsEjBbdzW4Ca/view?usp=sharing)
+
+
+<ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. UC Berkeley Engineering Research Symposium 2021.
+
+[[Poster]](https://drive.google.com/file/d/1YuPNUR8VDueFiSx2qxTQ2pZ4wy4GJ966/view?usp=sharing)
+
+<ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) 2021 Poster Session.
+
+[[Presentation Slides]](https://drive.google.com/file/d/1Ibp8mI6iTYQwzgY12TV--2vO2VfFt38W/view?usp=sharing) [[Technical Talk Program]](https://drive.google.com/file/d/1yc3tNYsyU6XAegCyYH6GNuv3g12EZJMQ/view?usp=sharing) [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb)
+
+
+<ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy 2020 Showcase.
+
+[[Poster]](https://www.eposters.net/poster/nanoparticle-drug-delivery-methods-via-dna-nanotechnology) [[ULAB Physics & Astronomy]](https://ulab.berkeley.edu/labs/physics)
 
 
 # UC Berkeley Teaching Experience 
