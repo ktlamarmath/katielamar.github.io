@@ -57,7 +57,9 @@ Lamar-Bruno, K. <ins>*Retrospective Motion Correction in Magnetic Resonance Imag
 Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 March 2017.
 
 [[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"}
+&nbsp;
 
+** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access. 
 &nbsp;
 &nbsp;
 
