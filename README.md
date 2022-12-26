@@ -9,7 +9,7 @@ I'm a UC Berkeley 5th year masters student in the Electrical Engineering Compute
 
 Masters of Science Degree in Electrical Engineering Computer Science 
 
-<ins>Tentatively Graduating on May 13, 2023 </ins> 
+<ins>Tentatively Graduating on May 13 2023 </ins> 
 
 
 
@@ -18,7 +18,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 *Bachelors of Arts in Applied Mathematics and Computer Science <ins>with Honors</ins>*
 
-<ins>*Awarded on May 13, 2022*</ins>
+<ins>*Awarded on May 13 2022*</ins>
 
 
 
@@ -27,14 +27,14 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 *Associates of Arts in Engineering and Technology <ins>with Honors</ins>*
 
-<ins>*Awarded on June 18, 2017*</ins>
+<ins>*Awarded on June 18 2017*</ins>
 
 
 
 ### Pasadena City College
 *Associates of Arts in Natural Sciences <ins>with Honors</ins>*
 
-<ins>*Awarded on June 18, 2017*</ins> 
+<ins>*Awarded on June 18 2017*</ins> 
 
 
 
