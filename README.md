@@ -70,7 +70,7 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 [[Presentation Slides]](https://drive.google.com/file/d/1Ibp8mI6iTYQwzgY12TV--2vO2VfFt38W/view?usp=sharing) [[Technical Talk Program]](https://drive.google.com/file/d/1yc3tNYsyU6XAegCyYH6GNuv3g12EZJMQ/view?usp=sharing) [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb)
 
 
-<ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy 2020 Showcase.
+<ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy (ULAB) 2020 Showcase.
 
 [[Poster]](https://www.eposters.net/poster/nanoparticle-drug-delivery-methods-via-dna-nanotechnology) [[ULAB Physics & Astronomy]](https://ulab.berkeley.edu/labs/physics)
 
@@ -85,30 +85,29 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 
 **BioEng C165 Medical Imaging Signals & Systems** Head Graduate Student Instructor 
 
-[[course description]](https://classes.berkeley.edu/content/2022-fall-bioeng-c165-001-lec-001) **[Dates: Fall 2022]**
+[[course description]](https://classes.berkeley.edu/content/2022-fall-bioeng-c165-001-lec-001) [Dates: Fall 2022]
 
 
 
 **Math 53: Multivariable Calculus** Undergraduate Student Instructor
 
-[[course description]](https://classes.berkeley.edu/content/2022-spring-math-53-002-lec-002) **[Dates: Spring 2022]**
+[[course description]](https://classes.berkeley.edu/content/2022-spring-math-53-002-lec-002) [Dates: Spring 2022]
 
 
 
 **EECS 16A: Designing Information Devices and Systems I** Lab Assistant
 
-[[course description]](https://classes.berkeley.edu/content/2021-fall-eecs-16a-001-lec-001) **[Dates: Fall 2021]**
+[[course description]](https://classes.berkeley.edu/content/2021-fall-eecs-16a-001-lec-001) [Dates: Fall 2021]
 
 
 
 **Residential Tutoring Program** Mathematics Tutor
 
-[[program description]](https://reslife.berkeley.edu/academics/academic-support/#:~:text=Online%20tutoring%20is%20offered%20Sundays,within%20their%20unit%20of%20residence.) **[Dates: August 2018 - December 2021]**
+[[program description]](https://reslife.berkeley.edu/academics/academic-support/#:~:text=Online%20tutoring%20is%20offered%20Sundays,within%20their%20unit%20of%20residence.) [Dates: August 2018 - December 2021]
 
 
 
 **Student Learning Center** Mathematics Tutor 
 
-[[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported) **8[Dates: Summer 2018]**
-
+[[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported) [Dates: Summer 2018]
 
