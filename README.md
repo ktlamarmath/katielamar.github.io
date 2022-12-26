@@ -120,3 +120,8 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 
 [[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported){:target="_blank"} [Term: Summer 2018]
 
+&nbsp;
+&nbsp;
+
+# Contact Me 
+
