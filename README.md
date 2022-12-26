@@ -84,6 +84,10 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 &nbsp;
 &nbsp;
 
+** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access (contact information below). 
+&nbsp;
+&nbsp;
+
 # UC Berkeley Teaching Experience 
 **Math 1A: Single Variable Calculus** Graduate Student Instructor
 
