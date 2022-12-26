@@ -1,10 +1,9 @@
 # About Me
 
 I'm a UC Berkeley 5th year masters student in the Electrical Engineering Computer Science Department. I have research experience in utilizing mathematical models to understand biological systems and I'm also very interested in mathematical oncology and biophysics. My current research interests include biomedical imaging, biophotonics, signal processing theory, biomedical signals, biomechanics, and biofluid dynamics.
-<pre>
 
-
-</pre>
+&nbsp;
+&nbsp;
 
 # Education
 
@@ -39,10 +38,9 @@ Masters of Science Degree in Electrical Engineering Computer Science
 *Associates of Arts in Natural Sciences <ins>with Honors</ins>*
 
 <ins>*Awarded on June 18 2017*</ins> 
-<pre>
 
-
-</pre>
+&nbsp;
+&nbsp;
 
 # Selected Publications
 
@@ -58,12 +56,10 @@ Lamar-Bruno, K. <ins>*Retrospective Motion Correction in Magnetic Resonance Imag
 
 Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 March 2017.
 
-[[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"} 
+[[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"}
 
-<pre>
-
-
-</pre>
+&nbsp;
+&nbsp;
 
 # Selected Presentations & Posters
 
@@ -85,10 +81,8 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 
 [[Poster]](https://www.eposters.net/poster/nanoparticle-drug-delivery-methods-via-dna-nanotechnology){:target="_blank"} [[ULAB Physics & Astronomy]](https://ulab.berkeley.edu/labs/physics){:target="_blank"}
 
-<pre>
-
-
-</pre>
+&nbsp;
+&nbsp;
 
 # UC Berkeley Teaching Experience 
 **Math 1A: Single Variable Calculus** Graduate Student Instructor
