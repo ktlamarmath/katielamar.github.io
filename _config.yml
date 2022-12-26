@@ -5,5 +5,5 @@ logo: https://media.licdn.com/dms/image/C5603AQEeVJF6mF2zXw/profile-displayphoto
 show_downloads: false
 google_analytics: 252660810
 markdown: kramdown
-
+permalink: pretty
 
