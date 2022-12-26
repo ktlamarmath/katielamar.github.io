@@ -46,7 +46,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 Kathryn Lamar-Bruno, Suma Anand, Michael Lustig. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
 
-[[Abstract]](https://index.mirasmart.com/ISMRM2022/PDFfiles/4446.html){:target="_blank"} [[Journal]](https://index.mirasmart.com/ISMRM2022/){:target="_blank"} 
+[[Abstract]](https://index.mirasmart.com/ISMRM2022/SearchResults.php?Program_Number=4446){:target="_blank"} [[Journal]](https://index.mirasmart.com/ISMRM2022/){:target="_blank"} 
 
 
 Lamar-Bruno, K. <ins>*Retrospective Motion Correction in Magnetic Resonance Imaging using the Beat-Pilot Tone*</ins>. UC Berkeley Mathematics Honors Program 2022. 
