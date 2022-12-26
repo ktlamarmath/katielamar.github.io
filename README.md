@@ -88,25 +88,25 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 **Math 1A: Single Variable Calculus** Graduate Student Instructor
 
 
-[[course description]](https://classes.berkeley.edu/content/2023-spring-math-1a-001-lec-001){:target="_blank"} [Dates: Spring 2023]
+[[course description]](https://classes.berkeley.edu/content/2023-spring-math-1a-001-lec-001){:target="_blank"} [Term: Spring 2023]
 
 
 
 **BioEng C165 Medical Imaging Signals & Systems** Head Graduate Student Instructor 
 
-[[course description]](https://classes.berkeley.edu/content/2022-fall-bioeng-c165-001-lec-001){:target="_blank"} [Dates: Fall 2022]
+[[course description]](https://classes.berkeley.edu/content/2022-fall-bioeng-c165-001-lec-001){:target="_blank"} [Term: Fall 2022]
 
 
 
 **Math 53: Multivariable Calculus** Undergraduate Student Instructor
 
-[[course description]](https://classes.berkeley.edu/content/2022-spring-math-53-002-lec-002){:target="_blank"} [Dates: Spring 2022]
+[[course description]](https://classes.berkeley.edu/content/2022-spring-math-53-002-lec-002){:target="_blank"} [Term: Spring 2022]
 
 
 
 **EECS 16A: Designing Information Devices and Systems I** Lab Assistant
 
-[[course description]](https://classes.berkeley.edu/content/2021-fall-eecs-16a-001-lec-001){:target="_blank"} [Dates: Fall 2021]
+[[course description]](https://classes.berkeley.edu/content/2021-fall-eecs-16a-001-lec-001){:target="_blank"} [Term: Fall 2021]
 
 
 
@@ -118,5 +118,5 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 
 **Student Learning Center** Mathematics Tutor 
 
-[[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported){:target="_blank"} [Dates: Summer 2018]
+[[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported){:target="_blank"} [Term: Summer 2018]
 
