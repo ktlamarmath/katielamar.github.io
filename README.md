@@ -129,5 +129,5 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 &nbsp;
 &nbsp;
 
-# Contact Me 
+# Contact Me  
 
