@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 I'm a UC Berkeley 5th year masters student in the Electrical Engineering Computer Science Department (EECS) working under [Professor Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"}. My research focuses on retrospective and prospective motion correction for Magnetic Resonance Imaging (MRI) using microwave frequencies to detect subject motion. I recently presented my work at <ins>The International Society for Magnetic Resonance (ISMRM) in Medicine 2022 Joint Annual Meeting</ins>. My abstract and presentation preview video can be found below. 
 
@@ -7,7 +7,7 @@ In addition to medical imaging, I have research experience in utilizing mathemat
 &nbsp;
 &nbsp;
 
-# Education
+## Education
 
 
 ### University of California, Berkeley
@@ -44,7 +44,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 &nbsp;
 &nbsp;
 
-# Selected Publications
+## Selected Publications
 
 Kathryn Lamar-Bruno, Suma Anand, Michael Lustig. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
 
@@ -65,7 +65,7 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 &nbsp;
 &nbsp;
 
-# Selected Presentations & Posters
+## Selected Presentations & Posters
 
 <ins>*Cardiac and Respiratory-Resolved Image Reconstruction with the Beat Pilot Tone*</ins>. International Society for Magnetic Resonance in Medicine 2022 Joint Meeting. 
 
@@ -129,5 +129,5 @@ Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journa
 &nbsp;
 &nbsp;
 
-# Contact Me  
+## Contact Me  
 
