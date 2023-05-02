@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Katie Lamar
 description: UC Berkeley EECS Masters Program
-logo: https://media.licdn.com/dms/image/C5603AQEeVJF6mF2zXw/profile-displayphoto-shrink_400_400/0/1574927092253?e=1677715200&v=beta&t=qBqP0a8Mzy4NaJTdskhSfVVO9V8vGU0z6TRhzN9j1i0
+logo: logo.jpeg
 show_downloads: false
-google_analytics: UA-252730010-1
+google_analytics: G-ZP285X4LJM
 markdown: kramdown
 permalink: pretty
 
