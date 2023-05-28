@@ -100,7 +100,7 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 &nbsp;
 &nbsp;
 
-# UC Berkeley Teaching Experience 
+## UC Berkeley Teaching Experience 
 **Math 1A: Single Variable Calculus** Graduate Student Instructor
 
 
@@ -135,8 +135,10 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 **Student Learning Center** Mathematics Tutor 
 
 [[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported){:target="_blank"} [Term: Summer 2018]
+
 &nbsp;
 &nbsp;
+
 
 ## Contact Me  
 
