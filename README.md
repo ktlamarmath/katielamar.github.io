@@ -52,7 +52,9 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 ## Selected Publications
 
-Lamar K. <ins>*Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone*</ins>. Master's thesis, EECS Department, University of California, Berkeley, May 2023. UCB/EECS-2023-169. [[Thesis]]([https://index.mirasmart.com/ISMRM2022/](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-169.html)){:target="_blank"} 
+Lamar K. <ins>*Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone*</ins>. Master's thesis, EECS Department, University of California, Berkeley, May 2023. UCB/EECS-2023-169. 
+
+[[Thesis]]([https://index.mirasmart.com/ISMRM2022/](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-169.html)){:target="_blank"} 
 
 
 Lamar-Bruno K, Anand S, Lustig M. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
