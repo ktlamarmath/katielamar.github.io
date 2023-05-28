@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a UC Berkeley 5th year masters student in the Electrical Engineering Computer Science Department (EECS) working under [Professor Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"}. My research focuses on retrospective and prospective motion correction for Magnetic Resonance Imaging (MRI) using microwave frequencies to detect subject motion. I recently presented my work at <ins>The International Society for Magnetic Resonance (ISMRM) in Medicine 2022 Joint Annual Meeting</ins>. My abstract and presentation preview video can be found below. 
+I'm an incoming Bioengineering Doctoral Student at UC San Diego. I recently finished the Electrical Engineering Computer Science (EECS) 5th Year Masters Program at UC Berkeley working under [Professor Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"}. My research focused on retrospective and prospective motion correction for Magnetic Resonance Imaging (MRI) using microwave frequencies to detect subject motion.
 
 In addition to medical imaging, I have research experience in utilizing mathematical models to understand biological systems and I'm also very interested in mathematical oncology and biophysics. My current research interests include biomedical imaging, biophotonics, signal processing theory, biomedical signals, biomechanics, and biofluid dynamics.
 
@@ -54,7 +54,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 Lamar K. <ins>*Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone*</ins>. Master's thesis, EECS Department, University of California, Berkeley, May 2023. UCB/EECS-2023-169. 
 
-[[Thesis]]([https://index.mirasmart.com/ISMRM2022/](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-169.html)){:target="_blank"} 
+[[Master's Thesis]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-169.pdf){:target="_blank"} 
 
 
 Lamar-Bruno K, Anand S, Lustig M. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
