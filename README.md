@@ -73,6 +73,7 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 &nbsp;
 
 ** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access. 
+
 &nbsp;
 &nbsp;
 
