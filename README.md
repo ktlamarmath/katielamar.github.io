@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an incoming Bioengineering Doctoral Student at UC San Diego. I recently finished the Electrical Engineering Computer Science (EECS) 5th Year Masters Program at UC Berkeley working under [Professor Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"}. My research focused on retrospective and prospective motion correction for Magnetic Resonance Imaging (MRI) using microwave frequencies to detect subject motion.
+I'm an incoming Bioengineering Doctoral Student at UC San Diego where I will be focusing on improving fetal and pediatric medical imaging. I recently finished the Electrical Engineering Computer Science (EECS) 5th Year Masters Program at UC Berkeley working under [Professor Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"}. My research focused on retrospective and prospective motion correction for Magnetic Resonance Imaging (MRI) using microwave frequencies to detect subject motion.
 
 In addition to medical imaging, I have research experience in utilizing mathematical models to understand biological systems and I'm also very interested in mathematical oncology and biophysics. My current research interests include biomedical imaging, biophotonics, signal processing theory, biomedical signals, biomechanics, and biofluid dynamics.
 
@@ -12,7 +12,7 @@ In addition to medical imaging, I have research experience in utilizing mathemat
 
 ### University of California, San Diego
 
-Bioengineering Doctoral Student 
+Bioengineering Doctoral Student
 
 
 
@@ -20,7 +20,7 @@ Bioengineering Doctoral Student
 
 Masters of Science Degree in Electrical Engineering Computer Science 
 
-<ins>Awarded on May 12 2023 </ins> 
+<ins>*Awarded on May 12 2023*</ins> 
 
 
 
@@ -46,7 +46,6 @@ Masters of Science Degree in Electrical Engineering Computer Science
 *Associates of Arts in Natural Sciences <ins>with Honors</ins>*
 
 <ins>*Awarded on June 18 2017*</ins> 
-
 &nbsp;
 &nbsp;
 
@@ -136,7 +135,6 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 **Student Learning Center** Mathematics Tutor 
 
 [[program description]](https://slc.berkeley.edu/programs/mathematics-and-statistics/courses-supported){:target="_blank"} [Term: Summer 2018]
-
 &nbsp;
 &nbsp;
 
