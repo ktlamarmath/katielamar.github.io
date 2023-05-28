@@ -10,11 +10,18 @@ In addition to medical imaging, I have research experience in utilizing mathemat
 ## Education
 
 
+### University of California, San Diego
+
+Bioengineering Doctoral Student 
+
+<ins>Tentatively Graduating on May 13 2023 </ins> 
+
+
 ### University of California, Berkeley
 
 Masters of Science Degree in Electrical Engineering Computer Science 
 
-<ins>Tentatively Graduating on May 13 2023 </ins> 
+<ins>Awarded on May 12 2023 </ins> 
 
 
 
@@ -46,7 +53,10 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 ## Selected Publications
 
-Kathryn Lamar-Bruno, Suma Anand, Michael Lustig. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
+Lamar K. <ins>*Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone*</ins>. Master's thesis, EECS Department, University of California, Berkeley, May 2023. UCB/EECS-2023-169. [[Journal]]([https://index.mirasmart.com/ISMRM2022/](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-169.html)){:target="_blank"} 
+
+
+Lamar-Bruno K, Anand S, Lustig M. <ins>*Cardiac and Respiratory-Resolved Image Reconstruction using the Beat Pilot Tone*</ins>. ISMRM-ESMRMB 2022 Abstract, May 2022. 
 
 [[Abstract]](https://index.mirasmart.com/ISMRM2022/PDFfiles/4446.html){:target="_blank"} [[Journal]](https://index.mirasmart.com/ISMRM2022/){:target="_blank"} 
 
@@ -56,7 +66,7 @@ Lamar-Bruno, K. <ins>*Retrospective Motion Correction in Magnetic Resonance Imag
 [[Honors Thesis]](https://drive.google.com/file/d/1kD_GcyZtW3htv_VR8XqJ3smFKos47pl5/view?usp=sharing){:target="_blank"} [[Honors Program]](https://math.berkeley.edu/programs/undergraduate/major/honors){:target="_blank"} 
 
 
-Lamar, Katie E. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 March 2017.
+Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 March 2017.
 
 [[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"}
 &nbsp;
