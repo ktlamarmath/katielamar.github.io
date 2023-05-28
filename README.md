@@ -46,6 +46,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 *Associates of Arts in Natural Sciences <ins>with Honors</ins>*
 
 <ins>*Awarded on June 18 2017*</ins> 
+
 &nbsp;
 &nbsp;
 
@@ -97,6 +98,7 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 &nbsp;
 
 ** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access. 
+
 &nbsp;
 &nbsp;
 
@@ -138,7 +140,6 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 
 &nbsp;
 &nbsp;
-
 
 ## Contact Me  
 
