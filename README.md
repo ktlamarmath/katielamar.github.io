@@ -104,6 +104,14 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 &nbsp;
 
 ## UC Berkeley Teaching Experience 
+
+**BENG 135: Biomedical Signals & Systems** Graduate Teaching Assistant
+
+
+[[course description]](https://catalog.ucsd.edu/courses/BENG.html#beng135){:target="_blank"} [Term: Fall 2023]
+
+
+
 **Math 1A: Single Variable Calculus** Graduate Student Instructor
 
 
