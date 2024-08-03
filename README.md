@@ -52,6 +52,17 @@ Masters of Science Degree in Electrical Engineering Computer Science
 &nbsp;
 &nbsp;
 
+## Grants, Fellowships, & Awards
+
+### Alfred P. Sloan Scholar Award & Fellowship
+
+<ins>*September 2023 - present*</ins>
+
+Awarded the Sloan Scholar Fellowship for an outstanding undergraduate and graduate academic record as well as for demonstrating a strong commitment "to enhance diversity to the benefit of the entire campus community". Sloan Scholars receive numerous career and leadership building opportunities in addition to a financial award. [[Link]](https://grad.ucsd.edu/diversity/programs-resources/ucem/index.html){:target="_blank"}
+
+&nbsp;
+&nbsp;
+
 ## Selected Publications
 
 Lamar K. <ins>*Respiratory and Cardiac Motion Correction Using the Beat Pilot Tone*</ins>. Master's thesis, EECS Department, University of California, Berkeley, May 2023. UCB/EECS-2023-169. 
@@ -83,7 +94,7 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 
 <ins>*Cardiac and Respiratory-Resolved Image Reconstruction with the Beat Pilot Tone*</ins>. International Society for Magnetic Resonance in Medicine 2022 Joint Meeting. 
 
-[[Video]](https://drive.google.com/file/d/1t-SW8l1FmjbDyFvgM6zPZsEjBbdzW4Ca/view?usp=sharing){:target="_blank"}
+[[Video]](https://drive.google.com/file/d/1r5DEPrjZNNCJokdxhjVcVBXHZuMiHA5u/view?usp=sharing){:target="_blank"}
 
 
 <ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. UC Berkeley Engineering Research Symposium 2021.
@@ -92,7 +103,7 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 
 <ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) 2021 Poster Session.
 
-[[Presentation Slides]](https://docs.google.com/presentation/d/11Bm8M9vHXv3qpuZn9xoQxKlFu6XBVhMZ/edit?usp=sharing&ouid=108655155536405773356&rtpof=true&sd=true){:target="_blank"} [[Technical Talk Recording]](https://drive.google.com/file/d/1i5uOxczCaaXhC1nPaphu2mLnJVZ8i--q/view?usp=sharing){:target="_blank"} [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb){:target="_blank"}
+[[Technical Talk Recording]](https://drive.google.com/file/d/1i5uOxczCaaXhC1nPaphu2mLnJVZ8i--q/view?usp=sharing){:target="_blank"} [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb){:target="_blank"}
 
 
 <ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy (ULAB) 2020 Showcase.
