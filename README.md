@@ -2,7 +2,7 @@
 
 I'm a 2nd year Bioengineering Doctoral Student at UC San Diego focused on improving brainstem Magnetic Resonance Imaging (MRI) under the guidance of [Dr. Thomas Liu](https://cfmriweb.ucsd.edu/tliu/){:target="_blank"} and [Dr. Albert Hsiao](https://profiles.ucsd.edu/albert.hsiao){:target="_blank"}. My work takes both an acquisition-based as well as an AI-centric, correction-based approach to minimizing off resonance and motion related artifacts that significantly hinder the accuracy of brainstem functional imaging. 
 
-Prior to joining UC San Diego as a Bioengineering doctoral student, I completed a Bachelor's of Arts in Applied Mathematics and Computer Science in May of 2022 and a Master's of Science in Electrical Engineering Computer Science (EECS) in May of 2023 at UC Berkeley. I also focused on minimizing cardiac-related and respiratory-related motion artifacts using microwave frequencies to track subject motion under the guidance of [Dr. Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"} throughout my undergraduate and graduate studies at UC Berkeley. 
+Prior to joining UC San Diego as a Bioengineering doctoral student, I completed a Bachelor's of Arts in Applied Mathematics and Computer Science in May of 2022 and a Master's of Science in Electrical Engineering Computer Science (EECS) in May of 2023 at UC Berkeley. I also focused on minimizing cardiac and respiratory induced motion artifacts using microwave frequencies to track subject motion under the guidance of [Dr. Michael Lustig](https://people.eecs.berkeley.edu/~mlustig/?_ga=2.72174547.1906270088.1671994399-2113451694.1621362601){:target="_blank"} throughout my undergraduate and graduate studies at UC Berkeley. 
 
 In addition to medical imaging, I have research experience in utilizing mathematical models to understand biological systems and I'm also very interested in mathematical oncology and biophysics. My current research interests include biomedical imaging, biophotonics, signal processing theory, biomedical signals, biomechanics, and biofluid dynamics.
 
@@ -54,11 +54,23 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 ## Grants, Fellowships, & Awards
 
+### National Institute of Health (NIH) & National Institute of Biomedical Imaging and Bioengineering (NBIB)
+
+<ins>*September 2024 - present*</ins>
+
+Ruth L. Kirschstein Institutional National Research Service Award Recipient (NIH/NBIB T32 Grant). [[More Information]](https://reporter.nih.gov/search/tz0FxxHk3km8U9Oxra5B_Q/project-details/10669614){:target="_blank"}
+
+### UC San Diego Interfaces Graduate Training Program
+
+<ins>*September 2024 - present*</ins>
+
+Interfaces Graduate Training Program provides trainees with additional coursework, professional development, and mentorship focused on the "Multi-Scale Analysis of Biological Structures and Function". "Successful completion of the PhD requirements and the specialization requirements leads to the specific doctoral designation, Ph.D. in Bioengineering with a Specialization in Multi-Scale Biology. This is a unique distinction only afforded to students in the participating departments of the Interfaces Program." [[More Information]](https://interfaces.ucsd.edu/){:target="_blank"}  
+ 
 ### Alfred P. Sloan Scholar Award & Fellowship
 
 <ins>*September 2023 - present*</ins>
 
-Awarded the Sloan Scholar Fellowship for an outstanding undergraduate and graduate academic record as well as for demonstrating a strong commitment "to enhance diversity to the benefit of the entire campus community". Sloan Scholars receive numerous career and leadership building opportunities in addition to a financial award. [[Link]](https://grad.ucsd.edu/diversity/programs-resources/ucem/index.html){:target="_blank"}
+Awarded the Sloan Scholar Fellowship for an outstanding undergraduate and graduate academic record as well as for demonstrating a strong commitment "to enhance diversity to the benefit of the entire campus community". Sloan Scholars receive numerous career and leadership building opportunities in addition to a financial award. [[More Information]](https://grad.ucsd.edu/diversity/programs-resources/ucem/index.html){:target="_blank"}
 
 &nbsp;
 &nbsp;
