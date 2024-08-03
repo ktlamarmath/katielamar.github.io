@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: Katie Lamar
-description: >
-UCSD Bioengineering Doctoral Student,        
-NIH/NBIB T32 Recipient,                
-Sloan Scholar Fellow
+description: 'UCSD Bioengineering Doctoral Student, \n        
+NIH/NBIB T32 Recipient,\n               
+Sloan Scholar Fellow'
 logo: https://i.imgur.com/qA33fQk.jpg
 show_downloads: false
 google_analytics: G-H4T97QBFMQ
