@@ -66,12 +66,12 @@ Lamar-Bruno K, Anand S, Lustig M. <ins>*Cardiac and Respiratory-Resolved Image R
 
 Lamar-Bruno, K. <ins>*Retrospective Motion Correction in Magnetic Resonance Imaging using the Beat-Pilot Tone*</ins>. UC Berkeley Mathematics Honors Program 2022. 
 
-[[Honors Thesis]](https://drive.google.com/file/d/1kD_GcyZtW3htv_VR8XqJ3smFKos47pl5/view?usp=sharing){:target="_blank"} [[Honors Program]](https://math.berkeley.edu/programs/undergraduate/major/honors){:target="_blank"} 
+[[Honors Thesis]](https://drive.google.com/file/d/1hGHgWoEoN4dONfL57gHtS4ICXpnFTDBo/view?usp=sharing){:target="_blank"} [[Honors Program]](https://math.berkeley.edu/programs/undergraduate/major/honors){:target="_blank"} 
 
 
 Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 March 2017.
 
-[[Abstract]](https://drive.google.com/file/d/1d1A9_RIR1_qR2u3vkSeL_DGm5lQoQQU1/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"}
+[[Abstract]](https://drive.google.com/file/d/1Sj07k0wWg2ZnGi2cM6Kbzv9FxiV-yZ0h/view?usp=sharing){:target="_blank"} [[Journal]](https://www.amazon.com/Building-Bridges-2017-California-Conference/dp/1984382950/ref=sr_1_fkmr3_1?crid=1WLVCP05J9M5A&keywords=HTCC+Selected+Abstracts+2017&qid=1672016222&sprefix=htcc+selected+abstracts+201%2Caps%2C128&sr=8-1-fkmr3){:target="_blank"}
 &nbsp;
 
 ** Some of the above links require additional permissions in order to view. Please contact Katie Lamar if you would like access. 
@@ -88,11 +88,11 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 
 <ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. UC Berkeley Engineering Research Symposium 2021.
 
-[[Poster]](https://drive.google.com/file/d/1YuPNUR8VDueFiSx2qxTQ2pZ4wy4GJ966/view?usp=sharing){:target="_blank"}
+[[Poster]](https://drive.google.com/file/d/1zEKrj7VxFiQHegji2B75CO80gz76B_nv/view?usp=sharing){:target="_blank"}
 
 <ins>*Retrospective Motion Correction for Magnetic Resonance Imaging using the Beat Pilot Tone*</ins>. Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) 2021 Poster Session.
 
-[[Presentation Slides]](https://drive.google.com/file/d/1Ibp8mI6iTYQwzgY12TV--2vO2VfFt38W/view?usp=sharing){:target="_blank"} [[Technical Talk Program]](https://drive.google.com/file/d/1yc3tNYsyU6XAegCyYH6GNuv3g12EZJMQ/view?usp=sharing){:target="_blank"} [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb){:target="_blank"}
+[[Presentation Slides]](https://docs.google.com/presentation/d/11Bm8M9vHXv3qpuZn9xoQxKlFu6XBVhMZ/edit?usp=sharing&ouid=108655155536405773356&rtpof=true&sd=true){:target="_blank"} [[Technical Talk Recording]](https://drive.google.com/file/d/1i5uOxczCaaXhC1nPaphu2mLnJVZ8i--q/view?usp=sharing){:target="_blank"} [[SUPERB REU]](https://eecs.berkeley.edu/resources/undergrads/research/superb){:target="_blank"}
 
 
 <ins>*Nanoparticle Drug Delivery Methods via DNA Nanotechnology*</ins>. Undergraduate Laboratory @ Berkeley Physics & Astronomy (ULAB) 2020 Showcase.
