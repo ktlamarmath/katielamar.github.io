@@ -54,7 +54,7 @@ Masters of Science Degree in Electrical Engineering Computer Science
 
 ## Grants, Fellowships, & Awards
 
-### National Institute of Health (NIH) & National Institute of Biomedical Imaging and Bioengineering (NBIB)
+### National Institute of Health (NIH)
 
 <ins>*September 2024 - present*</ins>
 
