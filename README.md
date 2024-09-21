@@ -129,6 +129,12 @@ Lamar, K. <ins>*Mechanical Integrator*</ins>. HTCC Building Bridges Journal, 5 M
 &nbsp;
 
 ## UC Berkeley Teaching Experience 
+**BENG 280A: Principles of Biomedical Imaging** Graduate Teaching Assistant
+
+
+[[course description]](https://catalog.ucsd.edu/courses/BENG.html){:target="_blank"} [Term: Fall 2024]
+
+
 
 **BENG 135: Biomedical Signals & Systems** Graduate Teaching Assistant
 
